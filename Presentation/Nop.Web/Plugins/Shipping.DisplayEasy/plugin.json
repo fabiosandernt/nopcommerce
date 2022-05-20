@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Shipping rate computation",
+  "FriendlyName": "Display Easy",
+ "SystemName": "Shipping.DisplayEasy",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Easy Tec team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Shipping.DisplayEasy.dll",
+  "Description": "This plugin allows like widget using DisplayEasy shipping"
+}
